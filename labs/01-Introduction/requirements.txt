@@ -1,0 +1,5 @@
+dotenv
+openai 
+httpx 
+tiktoken
+jupyter
